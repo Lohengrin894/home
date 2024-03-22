@@ -21,7 +21,6 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(top.JPG);
   background-size: cover;
-  color: white;
   text-align: center;
 }
 
@@ -29,12 +28,14 @@ a {
   opacity: 0.7;
   font-size: 45px;
   letter-spacing: 5px;
+  color: #D287ff;
 }
 
 .top-wrapper p {
   opacity: 0.7;
   font-size: 16px;
   margin-bottom: 40px;
+  color: white;
 }
 
 .btn-wrapper {
@@ -43,15 +44,6 @@ a {
 
 .btn-wrapper p {
   margin-bottom: 20px;
-}
-
-.signup {
-  background-color: #239b76;
-}
-
-.facebook {
-  background-color: #3b5998;
-  margin-right: 10px;
 }
 
 .twitter {
@@ -146,22 +138,6 @@ header {
 .heading h2 {
   font-weight: normal;
   color: #d287ff;
-}
-
-.lesson {
-  float: left;
-  width: 25%;
-}
-
-.lesson-icon {
-  position: relative;
-}
-
-.lesson-icon p {
-  position: absolute;
-  top: 37%;
-  width: 100%;
-  color: white;
 }
 
 .text-contents {
