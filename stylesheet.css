@@ -228,6 +228,10 @@ footer {
     font-size: 32px;
   }
 
+    .top-wrapper2 h1 {
+    font-size: 32px;
+  }
+
   .heading h2 {
     font-size: 20px;
   }
@@ -244,6 +248,10 @@ footer {
 
   .top-wrapper .btn {
     width: 100%;
+  }
+
+    .top-wrapper2 .btn {
+    display: none;
   }
 
   .twitter {
@@ -263,6 +271,18 @@ footer {
   }
 
   .top-wrapper p {
+    font-size: 14px;
+  }
+
+    .top-wrapper2 {
+    text-align: left;
+  }
+
+  .top-wrapper2 h1 {
+    font-size: 24px;
+  }
+
+  .top-wrapper2 p {
     font-size: 14px;
   }
 
