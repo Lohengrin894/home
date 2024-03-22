@@ -38,6 +38,26 @@ a {
   color: white;
 }
 
+.top-wrapper2 {
+  padding: 180px 0 100px 0;
+  background-size: cover;
+  text-align: center;
+}
+
+.top-wrapper2 h1 {
+  opacity: 0.7;
+  font-size: 45px;
+  letter-spacing: 5px;
+  color: white;
+}
+
+.top-wrapper2 p {
+  opacity: 0.7;
+  font-size: 16px;
+  margin-bottom: 40px;
+  color: white;
+}
+
 .btn-wrapper {
   text-align: center;
 }
