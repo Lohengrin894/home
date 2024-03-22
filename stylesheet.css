@@ -28,7 +28,7 @@ a {
   opacity: 0.7;
   font-size: 45px;
   letter-spacing: 5px;
-  color: #D287ff;
+  color: white;
 }
 
 .top-wrapper p {
@@ -94,7 +94,7 @@ header {
   padding: 0 25px;
   color: white;
   display: block;
-  float: right;
+  float: left;
   transition: all 0.5s;
 }
 
