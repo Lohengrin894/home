@@ -137,7 +137,7 @@ header {
 
 .heading h2 {
   font-weight: normal;
-  color: #d287ff;
+  color: white;
 }
 
 .text-contents {
@@ -176,7 +176,7 @@ footer img {
 }
 
 footer p {
-  color: #d287ff;
+  color: white;
   font-size: 12px;
 }
 
