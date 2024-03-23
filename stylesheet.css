@@ -183,10 +183,10 @@ header {
 }
 
 footer img {
-  width: 125px;
+  width: none;
 }
 
-footer p {
+footer p {<!- footerの本文 -->
   color: white;
   font-size: 12px;
 }
